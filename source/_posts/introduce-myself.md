@@ -7,6 +7,8 @@ categories:
 
 Hi my name is Fandix, and I am a web developer from Taiwan with 5 years of experience. I hold a Master degree in Electrical Engineering, and during my graduate studies, I interned for a year at SIGURD MICROELECTRONICS CORP, where I developed API libraries for automated testing machines using the C programming language.
 
+<!-- more -->
+
 After completing my graduate studies, I joined Genie Networks as a full-stack engineer, working with Angular and Node.js to develop web applications. One of the projects I contributed to helped the company secure a major bid with India’s JIO network in 2021, leading to a 15% increase in company revenue.
 
 Following my career development plan, I transitioned to Cyberbiz in 2024, an online e-commerce platform company, where I work as a backend engineer. My primary focus is on developing projects using Ruby on Rails, contributing to the custom development team by building specialized features. These innovations have helped the company generate additional profits and improve the store signing rate through tailored functionality for clients.
